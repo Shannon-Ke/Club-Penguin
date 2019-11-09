@@ -1,4 +1,0 @@
-#Sat Nov 09 13:32:12 EST 2019
-base.0=/Users/ske/Documents/HackPrinceton/Club Penguin/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
-path.0=classes.dex
-renamed.0=classes.dex

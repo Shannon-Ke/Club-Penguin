@@ -12,6 +12,6 @@ public class CameraRotate : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		transform.rotation = Quaternion.Euler(0, camera.transform.rotation.y ,0);
+		transform.rotation = Quaternion.Euler(transform.rotation.x, camera.transform.rotation.y ,transform.rotation.z);
 	}
 }

@@ -1,1 +1,0 @@
-Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.125.0.dll

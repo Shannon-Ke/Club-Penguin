@@ -66,29 +66,14 @@
      <Compile Include="Assets\GoogleVR\Legacy\Editor\Audio\GvrAudioRoomEditor.cs" />
      <Compile Include="Assets\GoogleVR\Legacy\Editor\Audio\GvrAudioSoundfieldEditor.cs" />
      <Compile Include="Assets\GoogleVR\Legacy\Editor\Audio\GvrAudioSourceEditor.cs" />
-     <None Include="Assets\Firebase\Editor\FirebaseDatabase_v1.0.1_manifest.txt" />
      <None Include="Assets\Firebase\Editor\FirebaseAuth_version-6.6.0_manifest.txt" />
-     <None Include="Assets\Firebase\Editor\FirebaseAnalytics_v1.1.1_manifest.txt" />
      <None Include="Assets\Firebase\Editor\FirebaseDatabase_version-6.6.0_manifest.txt" />
-     <None Include="Assets\Firebase\Editor\FirebaseAnalytics_v1.0.0_manifest.txt" />
-     <None Include="Assets\Firebase\Editor\FirebaseAnalytics_v1.0.1_manifest.txt" />
      <None Include="Assets\Firebase\Editor\AppDependencies.xml" />
-     <None Include="Assets\Firebase\Editor\FirebaseDatabase_v1.1.2_manifest.txt" />
-     <None Include="Assets\Firebase\Editor\FirebaseAuth_v1.1.1_manifest.txt" />
-     <None Include="Assets\Firebase\Editor\FirebaseAuth_v1.1.0_manifest.txt" />
-     <None Include="Assets\Firebase\Editor\FirebaseAnalytics_v1.1.2_manifest.txt" />
      <None Include="Assets\Firebase\Editor\AnalyticsDependencies.xml" />
-     <None Include="Assets\Firebase\Editor\FirebaseAuth_v1.1.2_manifest.txt" />
-     <None Include="Assets\Firebase\Editor\FirebaseAuth_v1.0.1_manifest.txt" />
      <None Include="Assets\Firebase\Editor\AuthDependencies.xml" />
      <None Include="Assets\Firebase\Editor\DatabaseDependencies.xml" />
-     <None Include="Assets\Firebase\Editor\FirebaseDatabase_v1.1.1_manifest.txt" />
-     <None Include="Assets\Firebase\Editor\FirebaseAnalytics_v1.1.0_manifest.txt" />
-     <None Include="Assets\Firebase\Editor\FirebaseAuth_v1.0.0_manifest.txt" />
      <None Include="Assets\Firebase\Editor\FirebaseAnalytics_version-6.6.0_manifest.txt" />
-     <None Include="Assets\Firebase\Editor\FirebaseDatabase_v1.0.0_manifest.txt" />
      <None Include="Assets\PlayServicesResolver\Editor\play-services-resolver_v1.2.125.0.txt" />
-     <None Include="Assets\Firebase\Editor\FirebaseDatabase_v1.1.0_manifest.txt" />
  <Reference Include="UnityEngine.CoreModule">
  <HintPath>/Applications/2017.4.34f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
  </Reference>
@@ -311,6 +296,15 @@
  <Reference Include="Google.VersionHandler">
  <HintPath>/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll</HintPath>
  </Reference>
+ <Reference Include="Google.VersionHandlerImpl_v1.2.125.0">
+ <HintPath>/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.125.0.dll</HintPath>
+ </Reference>
+ <Reference Include="Google.IOSResolver_v1.2.125.0">
+ <HintPath>/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.125.0.dll</HintPath>
+ </Reference>
+ <Reference Include="Google.JarResolver_v1.2.125.0">
+ <HintPath>/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.125.0.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.Compat">
  <HintPath>/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Assets/Parse/Plugins/dotNet45/Unity.Compat.dll</HintPath>
  </Reference>
@@ -340,6 +334,9 @@
  </Reference>
  <Reference Include="Firebase.TaskExtension">
  <HintPath>/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Assets/Firebase/Plugins/Firebase.TaskExtension.dll</HintPath>
+ </Reference>
+ <Reference Include="Firebase.Editor">
+ <HintPath>/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Assets/Firebase/Editor/Firebase.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Google.ProtocolBuffers">
  <HintPath>/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Assets/GoogleVR/Plugins/Google.ProtocolBuffers.dll</HintPath>

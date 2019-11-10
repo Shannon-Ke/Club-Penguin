@@ -1,9 +1,7 @@
 Android
 PlayerPath?
-/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Builds/ytf.apk
+/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Builds/pika.apk
 SceneListBegin?
-Assets/Scenes/CreatePenguin.unity
-Assets/Scenes/ClubPenguin.unity
 Assets/Scenes/Club.unity
 SceneListEnd?
 176f67aae4ec7273cfef37fd8876bd9a Assembly-CSharp.dll:.GvrDropdown
@@ -158,6 +156,8 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 73843688b51256aed059f049c540bca8 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
 72903e4446a2f2d54923b10a70b2c5ba Assembly-CSharp.dll:Gvr.Internal.InstantPreview
+2730a0cb5c147b8eba0d214adcf9138f Assembly-CSharp.dll:.ArmController
+3a2cdc3d8154977ac5e3188093de71d3 Assembly-CSharp.dll:.asdfaysdf
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.GvrControllerTooltipsSimple
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback
 de4d9d052ba4d30c8e1d66d73b186762 UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.PlaymodeTestsController
@@ -200,7 +200,7 @@ a8b185f93b85036e13e3f553c802615a Assembly-CSharp.dll:.GvrTooltip
 0993c6cb8df0e25910c3ca6e47a7f2de Assembly-CSharp.dll:GoogleVR.VideoDemo.MenuHandler
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Gvr.Internal.EmulatorClientSocket
 ffe0fb64b85f0eba3ffce7716232db3e Assembly-CSharp.dll:.Move
-116ea8e0fddecb3ecf280b0431104a64 Assembly-CSharp.dll:.DanceController
+85f3a18a5902d22ab9b83f9d98f845cd Assembly-CSharp.dll:.DanceController
 7d05c1a36ca8db05546065b852216990 Assembly-CSharp.dll:.GvrControllerInput
 e399fc54e753911801f12ac57c8fc414 Assembly-CSharp.dll:GoogleVR.HelloVR.HelloVRManager
 4daf45ea92c6f4f42bb150464f141fc1 Assembly-CSharp.dll:.CameraRotate
@@ -208,4 +208,3 @@ b2945430dfd6bbdb5d77043b47bf85e7 Assembly-CSharp.dll:.GvrControllerReticleVisual
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.GvrXREventsSubscriber
 d885ad79a6ef5bfe2ce10637aac0b8a0 Assembly-CSharp.dll:GoogleVR.VideoDemo.AutoPlayVideo
 04124913f0a5e54796810cd5b33851c5 Assembly-CSharp.dll:GoogleVR.Beta.GvrBetaControllerVisualMulti
-2730a0cb5c147b8eba0d214adcf9138f Assembly-CSharp.dll:.ArmController

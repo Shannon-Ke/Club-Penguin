@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-lt/values-lt.xml",
+            "map": [
+                {
+                    "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-basement-17.0.0.aar/4fc8d534704e74badc2f1fd117c7b613/res/values-lt/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "217",
+                        "endOffsets": "464"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "1386",
+                        "endColumns": "217",
+                        "endOffsets": "1599"
+                    }
+                },
+                {
+                    "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/values-lt/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "245,350,534,664,769,981,1109,1254,1385,1610,1717,1913,2045,2257,2433,2527,2619",
+                        "endColumns": "104,183,129,104,211,127,144,130,224,106,195,131,211,175,93,91,114",
+                        "endOffsets": "349,533,663,768,980,1108,1253,1384,1609,1716,1912,2044,2256,2432,2526,2618,2733"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "222,331,515,649,758,970,1102,1251,1604,1829,1940,2136,2272,2484,2664,2762,2858",
+                        "endColumns": "108,183,133,108,211,131,148,134,224,110,195,135,211,179,97,95,118",
+                        "endOffsets": "326,510,644,753,965,1097,1246,1381,1824,1935,2131,2267,2479,2659,2757,2853,2972"
+                    }
+                },
+                {
+                    "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/values-lt/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "174,236,283,337,418,590,710,762,842,923,997,1052,1242,1431,1503,1580,1671,1767,1861,1932,1977,2032",
+                        "endColumns": "61,46,53,80,171,119,51,79,80,73,54,189,188,71,76,90,95,93,70,44,54,67",
+                        "endOffsets": "235,282,336,417,589,709,761,841,922,996,1051,1241,1430,1502,1579,1670,1766,1860,1931,1976,2031,2099"
+                    },
+                    "to": {
+                        "startLines": "2,3,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,41,42",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,171,2977,3035,3120,3296,3420,3476,3560,3645,3723,3782,3976,4169,4245,4326,4421,4521,4619,4694,4844,4903",
+                        "endColumns": "65,50,57,84,175,123,55,83,84,77,58,193,192,75,80,94,99,97,74,48,58,71",
+                        "endOffsets": "166,217,3030,3115,3291,3415,3471,3555,3640,3718,3777,3971,4164,4240,4321,4416,4516,4614,4689,4738,4898,4970"
+                    }
+                },
+                {
+                    "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/values-lt/values-lt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "40",
+                        "startColumns": "4",
+                        "startOffsets": "4743",
+                        "endColumns": "100",
+                        "endOffsets": "4839"
+                    }
+                }
+            ]
+        }
+    ]
+}

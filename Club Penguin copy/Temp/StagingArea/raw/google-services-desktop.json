@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "106958277498",
+    "firebase_url": "https://clubpenguinvr-87ba4.firebaseio.com",
+    "project_id": "clubpenguinvr-87ba4",
+    "storage_bucket": "clubpenguinvr-87ba4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106958277498:android:f07dbcc84fba640ee464c3",
+        "android_client_info": {
+          "package_name": "com.theCookiePenguins.ClubPenguinVR"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106958277498-oscu0ns6lhfpvqe9b1skiin55b7p993r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVJsG73YQP_7PaeKAEeaNBNZPcBdUuzoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106958277498-oscu0ns6lhfpvqe9b1skiin55b7p993r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

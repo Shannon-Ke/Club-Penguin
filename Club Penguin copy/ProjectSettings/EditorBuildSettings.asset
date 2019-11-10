@@ -5,13 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/CreatePenguin.unity
     guid: cd6f9a775de194036878f05ea777fb22
   - enabled: 0
     path: Assets/GoogleVR/Demos/Scenes/HelloVR.unity
     guid: bb36d2905dc634f1c9eecb35beecaca8
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ClubPenguin.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1

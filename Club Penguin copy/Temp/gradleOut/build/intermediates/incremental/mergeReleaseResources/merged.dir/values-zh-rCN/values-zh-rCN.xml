@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="back_button_content_description">返回</string>
+    <string name="cancel_button">取消</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"启用"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"您必须先启用 Google Play 服务，然后才能运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"启用 Google Play 服务"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"安装"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"您的设备没有安装 Google Play 服务，因此无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"获取 Google Play 服务"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play 服务的适用范围"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play服务出错"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g>无法访问 Google Play 服务，请重试。"</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"您的设备不支持 Google Play 服务，因此无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"您必须先更新 Google Play 服务，然后才能运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"更新 Google Play 服务"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Google Play 服务当前正在更新，因此您无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"必须使用新版 Google Play 服务。该服务很快就会自行更新。"</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"在手机上打开"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"登录"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"使用 Google 帐号登录"</string>
+    <string name="dialog_button_got_it">知道了</string>
+    <string name="dialog_button_open_help_center">打开帮助中心</string>
+    <string name="dialog_message_incompatible_phone">手机必须与 Daydream 兼容。请访问 Daydream 帮助中心了解详情。</string>
+    <string name="dialog_message_no_cardboard">获取 Cardboard 应用以配置观看器。</string>
+    <string name="dialog_title">配置</string>
+    <string name="dialog_title_incompatible_phone">手机不兼容</string>
+    <string name="dialog_title_vr_core_not_enabled">需要设置</string>
+    <string name="dialog_title_vr_core_not_installed">需要安装</string>
+    <string name="dialog_title_warning">警告</string>
+    <string name="dialog_vr_core_not_enabled">如果不启用 Google VR 服务，此应用可能无法正常运作，请先在手机设置中启用此服务，然后再继续。</string>
+    <string name="dialog_vr_core_not_installed">如果不安装 Google VR 服务，此应用可能无法正常运作。请先通过 Play 商店安装此服务，然后再继续。</string>
+    <string name="go_to_playstore_button">转到 Play 商店</string>
+    <string name="go_to_vr_listeners_settings_button">转到“设置”</string>
+    <string name="no_browser_text">找不到可以打开网站的浏览器</string>
+    <string name="place_your_phone_into_cardboard">将手机放入 Cardboard 观看器</string>
+    <string name="place_your_viewer_into_viewer_format">将手机放入 %s 观看器</string>
+    <string name="settings_button_content_description">设置</string>
+    <string name="setup_button">设置</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="switch_viewer_action">切换</string>
+    <string name="switch_viewer_prompt">要使用其他观看器吗？</string>
+</resources>

@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sv/values-sv.xml",
+            "map": [
+                {
+                    "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-basement-17.0.0.aar/4fc8d534704e74badc2f1fd117c7b613/res/values-sv/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "206",
+                        "endOffsets": "453"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "1375",
+                        "endColumns": "206",
+                        "endOffsets": "1577"
+                    }
+                },
+                {
+                    "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/values-sv/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "245,350,539,664,772,972,1095,1244,1373,1580,1686,1879,2005,2218,2400,2492,2581",
+                        "endColumns": "104,188,124,107,199,122,148,128,206,105,192,125,212,181,91,88,103",
+                        "endOffsets": "349,538,663,771,971,1094,1243,1372,1579,1685,1878,2004,2217,2399,2491,2580,2684"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "223,332,521,650,762,962,1089,1242,1582,1789,1899,2092,2222,2435,2621,2717,2810",
+                        "endColumns": "108,188,128,111,199,126,152,132,206,109,192,129,212,185,95,92,107",
+                        "endOffsets": "327,516,645,757,957,1084,1237,1370,1784,1894,2087,2217,2430,2616,2712,2805,2913"
+                    }
+                },
+                {
+                    "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/values-sv/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "174,239,284,332,405,552,662,711,794,871,949,1002,1205,1396,1460,1539,1616,1708,1803,1877,1928,1979",
+                        "endColumns": "64,44,47,72,146,109,48,82,76,77,52,202,190,63,78,76,91,94,73,50,50,65",
+                        "endOffsets": "238,283,331,404,551,661,710,793,870,948,1001,1204,1395,1459,1538,1615,1707,1802,1876,1927,1978,2044"
+                    },
+                    "to": {
+                        "startLines": "2,3,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,41,42",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,174,2918,2970,3047,3198,3312,3365,3452,3533,3615,3672,3879,4074,4142,4225,4306,4402,4501,4579,4735,4790",
+                        "endColumns": "68,48,51,76,150,113,52,86,80,81,56,206,194,67,82,80,95,98,77,54,54,69",
+                        "endOffsets": "169,218,2965,3042,3193,3307,3360,3447,3528,3610,3667,3874,4069,4137,4220,4301,4397,4496,4574,4629,4785,4855"
+                    }
+                },
+                {
+                    "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/values-sv/values-sv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "40",
+                        "startColumns": "4",
+                        "startOffsets": "4634",
+                        "endColumns": "100",
+                        "endOffsets": "4730"
+                    }
+                }
+            ]
+        }
+    ]
+}

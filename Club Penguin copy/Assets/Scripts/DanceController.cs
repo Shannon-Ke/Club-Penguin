@@ -5,10 +5,14 @@ using UnityEngine.UI;
 using Firebase;
 using Firebase.Database;
 using Firebase.Unity.Editor;
+using System.Threading.Tasks;
 
 public class DanceController : MonoBehaviour {
 
+	public int CollectionCount;
+	public int AddData;
 	public float scale = 0.9f;
+	List<DanceData> templist;
 
 	public GameObject chest;
 	public GameObject luarm;
@@ -47,12 +51,13 @@ public class DanceController : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		//com.theCookiePenguins.ClubPenguinVR
+		CollectionCount = 0;
 		FirebaseApp.DefaultInstance.SetEditorDatabaseUrl("https://clubpenguinvr-87ba4.firebaseio.com/");
         reference = FirebaseDatabase.DefaultInstance.RootReference;
 		active = chest;
 		isDancing = false;
 		
-		RetreiveData();
+		// RetreiveData();
 		// Debug.Log(data[0].datalist[0].x);
 		rec.alpha = 0f;
 	}
@@ -61,18 +66,31 @@ public class DanceController : MonoBehaviour {
 	int index = 0;
 	// Update is called once per frame
 	void Update () {
-		
+		CheckAddData();
+
+		if (AddData == -1) {
+			Debug.Log(CollectionCount);
+			RetreiveData();
+			// reference.Child("AddData").SetValueAsync(0);
+			AddDataFunc(0);
+			isDancing = false;
+			rec.alpha = 0f;
+			CollectionCount++;
+		}
 
 
-		if (GvrControllerInput.AppButtonDown && !isDancing) {
+		//if (GvrControllerInput.AppButtonDown && !isDancing) {
+		if (Input.GetKeyDown(KeyCode.A) && !isDancing) {
 			isDancing = true; 
 			rec.alpha = 1f;
 			//gen's code
+			// reference.Child("AddData").SetValueAsync(1);
+			AddDataFunc(1);
 			
-		} else if (GvrControllerInput.AppButtonDown && isDancing) {
-			isDancing = false;
-			rec.alpha = 0f;
-			//stop dancing
+		// } else if (GvrControllerInput.AppButtonDown && isDancing) {
+		// 	isDancing = false;
+		// 	rec.alpha = 0f;
+		// 	//stop dancing
 
 		}
 		if (list != null && !isPlaying) {
@@ -196,17 +214,41 @@ public class DanceController : MonoBehaviour {
 				float y = origin.transform.position.y + curr.y * scale;
 				float z = origin.transform.position.z + curr.z * scale;
 				moves[i].Add(new Vector3(x,z,y));
-				Debug.Log(x);
+				//Debug.Log(x);
 			}
 		}
 		isPlaying = true;
 		
 	}
+
+	async void AddDataFunc(int val) {
+		await reference.Child("AddData").SetValueAsync(val).ContinueWith(task => {
+			if (task.IsFaulted) {
+			// Handle the error...
+			}
+			else if (task.IsCompleted) {
+				// DataSnapshot snapshot = task.Result;
+				
+			}
+		});
+	}
+
+	async void CheckAddData() {
+		await reference.Child("AddData").GetValueAsync().ContinueWith(task => {
+			if (task.IsFaulted) {
+			// Handle the error...
+			}
+			else if (task.IsCompleted) {
+				DataSnapshot snapshot = task.Result;
+				AddData = int.Parse(snapshot.Value.ToString());
+			}
+		});
+	}
 	
 	async void RetreiveData() {
-		List<DanceData> templist = new List<DanceData>();
-		
-		await reference.Child("cvdata").GetValueAsync().ContinueWith(task => {
+		templist = new List<DanceData>();
+		int temp = CollectionCount / 2;
+		await reference.Child("" + temp).GetValueAsync().ContinueWith(task => {
 			if (task.IsFaulted) {
 			// Handle the error...
 			}
@@ -238,7 +280,25 @@ public class DanceController : MonoBehaviour {
 
 		
 	  //return list;
+	//   DeleteCollection(reference);
 	}
+
+	// private static async Task DeleteCollection(DatabaseReference collectionReference)
+	// {
+	// 	DataSnapshot snapshot = await collectionReference.GetSnapshotAsync();
+	// 	IReadOnlyList<DocumentSnapshot> documents = snapshot.Documents;
+	// 	while (documents.Count > 0)
+	// 	{
+	// 		foreach (DocumentSnapshot document in documents)
+	// 		{
+	// 			//Console.WriteLine("Deleting document {0}", document.Id);
+	// 			await document.Reference.DeleteAsync();
+	// 		}
+	// 		snapshot = await collectionReference.GetSnapshotAsync();
+	// 		documents = snapshot.Documents;
+	// 	}
+	// 	//Console.WriteLine("Finished deleting all documents from the collection.");
+	// }
 }
 
 class DanceData {

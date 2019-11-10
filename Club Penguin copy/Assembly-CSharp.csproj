@@ -168,6 +168,7 @@
      <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
      <Compile Include="Assets\Scripts\ArmController.cs" />
      <Compile Include="Assets\Scripts\asdfaysdf.cs" />
+     <Compile Include="Assets\Scripts\AudioRec.cs" />
      <Compile Include="Assets\Scripts\CameraRotate.cs" />
      <Compile Include="Assets\Scripts\DanceController.cs" />
      <Compile Include="Assets\Scripts\DanceFloorController.cs" />
@@ -176,6 +177,7 @@
      <Compile Include="Assets\Scripts\LoadScene.cs" />
      <Compile Include="Assets\Scripts\Move.cs" />
      <Compile Include="Assets\Scripts\PenguinColorController.cs" />
+     <Compile Include="Assets\Scripts\SavWav.cs" />
      <Compile Include="Assets\Scripts\Teleport.cs" />
      <Compile Include="Assets\Scripts\test.cs" />
      <Compile Include="Assets\Scripts\VRLookWalk.cs" />

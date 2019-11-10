@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/color_common_google_signin_btn_text_light.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/layout_settings_button.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/layout/settings_button.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/layout-land_back_button.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/layout-land/back_button.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/drawable-xhdpi-v4/quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/drawable-hdpi-v4/quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xxxhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/drawable-xxxhdpi-v4/quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/layout-ldrtl-land-v17_settings_button.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/layout-ldrtl-land-v17/settings_button.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4_transition.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/drawable-hdpi-v4/transition.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/drawable-mdpi-v4/quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xxhdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/drawable-xxhdpi-v4/quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/layout-land_settings_button.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/layout-land/settings_button.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/layout-land_ui_layer_with_portrait_support.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/layout-land/ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable_notification_bg.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/layout-ldrtl-v17_back_button.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/layout-ldrtl-v17/back_button.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xxxhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/drawable-xxxhdpi-v4/quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/layout_transition_view.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/layout/transition_view.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/layout_ui_layer_with_portrait_support.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/layout/ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi_app_icon.png.flat",
+        "source": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/src/main/res/drawable-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/layout-ldrtl-land-v17_back_button.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/layout-ldrtl-land-v17/back_button.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-v21_rippleable.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/drawable-v21/rippleable.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/drawable-mdpi-v4/quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4_quantum_ic_close_white_24.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/drawable-hdpi-v4/quantum_ic_close_white_24.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4_transition.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/drawable-mdpi-v4/transition.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/layout-v21_notification_action.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/layout_back_button.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/layout/back_button.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-nodpi-v4_vr_icon_back.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/unitygvr.aar/3e2506190a13f55ba05bb54888432c62/res/drawable-nodpi-v4/vr_icon_back.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/layout_ui_layer.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/layout/ui_layer.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-nodpi-v4_vr_icon_front.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/unitygvr.aar/3e2506190a13f55ba05bb54888432c62/res/drawable-nodpi-v4/vr_icon_front.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/drawable-xhdpi-v4/quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/color_common_google_signin_btn_tint.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xxhdpi-v4_quantum_ic_settings_white_24.png.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/drawable-xxhdpi-v4/quantum_ic_settings_white_24.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable-xhdpi_app_banner.png.flat",
+        "source": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/src/main/res/drawable-xhdpi/app_banner.png"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/layout-ldrtl-v17_settings_button.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/layout-ldrtl-v17/settings_button.xml"
+    },
+    {
+        "merged": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/res/merged/release/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/drawable/notification_bg_low.xml"
+    }
+]

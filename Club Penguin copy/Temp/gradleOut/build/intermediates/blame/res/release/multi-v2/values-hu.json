@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ske/Documents/HackPrinceton/Club-Penguin/Club Penguin copy/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hu/values-hu.xml",
+            "map": [
+                {
+                    "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/gvr.aar/25902b1777d18566f05382085f2373b4/res/values-hu/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "174,237,281,334,405,560,674,724,805,882,961,1021,1250,1473,1545,1627,1714,1813,1913,1985,2032,2084",
+                        "endColumns": "62,43,52,70,154,113,49,80,76,78,59,228,222,71,81,86,98,99,71,46,51,70",
+                        "endOffsets": "236,280,333,404,559,673,723,804,881,960,1020,1249,1472,1544,1626,1713,1812,1912,1984,2031,2083,2154"
+                    },
+                    "to": {
+                        "startLines": "2,3,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,41,42",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,172,3137,3194,3269,3428,3546,3600,3685,3766,3849,3913,4146,4373,4449,4535,4626,4729,4833,4909,5061,5117",
+                        "endColumns": "66,47,56,74,158,117,53,84,80,82,63,232,226,75,85,90,102,103,75,50,55,74",
+                        "endOffsets": "167,215,3189,3264,3423,3541,3595,3680,3761,3844,3908,4141,4368,4444,4530,4621,4724,4828,4904,4955,5112,5187"
+                    }
+                },
+                {
+                    "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-17.1.0.aar/4289fee9ff260d2384bdcd85b8be76ed/res/values-hu/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "245,354,570,706,813,1040,1176,1324,1459,1688,1794,2010,2145,2376,2574,2671,2765",
+                        "endColumns": "108,215,135,106,226,135,147,134,228,105,215,134,230,197,96,93,112",
+                        "endOffsets": "353,569,705,812,1039,1175,1323,1458,1687,1793,2009,2144,2375,2573,2670,2764,2877"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "220,333,549,689,800,1027,1167,1319,1694,1923,2033,2249,2388,2619,2821,2922,3020",
+                        "endColumns": "112,215,139,110,226,139,151,138,228,109,215,138,230,201,100,97,116",
+                        "endOffsets": "328,544,684,795,1022,1162,1314,1453,1918,2028,2244,2383,2614,2816,2917,3015,3132"
+                    }
+                },
+                {
+                    "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-basement-17.0.0.aar/4fc8d534704e74badc2f1fd117c7b613/res/values-hu/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "235",
+                        "endOffsets": "482"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "1458",
+                        "endColumns": "235",
+                        "endOffsets": "1689"
+                    }
+                },
+                {
+                    "source": "/Users/ske/.gradle/caches/transforms-1/files-1.1/androidx.core.core-1.0.0.aar/824677b97396eae145a88019ab701985/res/values-hu/values-hu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "40",
+                        "startColumns": "4",
+                        "startOffsets": "4960",
+                        "endColumns": "100",
+                        "endOffsets": "5056"
+                    }
+                }
+            ]
+        }
+    ]
+}
